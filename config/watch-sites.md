@@ -11,7 +11,8 @@
 
 ## 競合・業界サイト
 
-- （ここにURLを追加。例: https://competitor.com — 競合A）
+- https://www.titleist.co.jp/ — Titleist
+- https://jp.pxg.com/ja — PXG
 
 ## 注意
 
