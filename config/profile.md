@@ -13,7 +13,7 @@
 ## 連絡先・連携ツール
 
 - メール: Gmail — haraken.0423@gmail.com
-- カレンダー:
+- カレンダー: TickTick — https://ticktick.com/webapp/#p/6a41eaa94a58dd583d4ae035/tasks/6a41ebb74a58dd583d4ae0da
 - チャット（Slack等）:
 - その他連携:
 
