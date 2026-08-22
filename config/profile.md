@@ -31,7 +31,8 @@
 
 ## 定例・繰り返しタスク
 
-- （onboarding後、または随時追記）
+- 毎日9:00: サイトウォッチ（自社・競合サイトの定期チェック、protocols/site-watch.md）
+- 毎週月曜9:00: オンラインサイトの売上UP案（protocols/sales-growth.md）
 
 ## メモ
 

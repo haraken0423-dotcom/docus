@@ -25,6 +25,7 @@
 | 「調べて」「リサーチ」 | protocols/research.md | 構造化されたリサーチ |
 | 新規タスク・案件の依頼 | protocols/project-mgmt.md | プロジェクトとして登録・管理 |
 | 「サイトチェック」、毎日の定期実行 | protocols/site-watch.md | 自社・競合サイトの巡回チェックと毎日レポート |
+| 「売上UP案」、毎週月曜の定期実行 | protocols/sales-growth.md | オンラインサイトの売上向上施策の提案 |
 
 ## ディレクトリ構成
 
@@ -40,9 +41,11 @@ protocols/
   research.md         — 構造化リサーチ
   project-mgmt.md     — 案件・プロジェクト管理
   site-watch.md        — 自社・競合サイトの定期巡回チェック
+  sales-growth.md      — オンラインサイトの売上UP案の週次提案
 projects/
   <project-name>.md — project-mgmt.md が案件ごとに作成するファイル
   site-watch/        — site-watch.md が保存するサイトごとのスナップショット
+  sales-growth/       — sales-growth.md が保存する提案履歴
 ```
 
 ## 参照時の注意
