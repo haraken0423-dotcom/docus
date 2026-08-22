@@ -24,12 +24,14 @@
 | 「会議準備」「議事録」 | protocols/meeting-prep.md | 会議前の準備 or 議事録作成 |
 | 「調べて」「リサーチ」 | protocols/research.md | 構造化されたリサーチ |
 | 新規タスク・案件の依頼 | protocols/project-mgmt.md | プロジェクトとして登録・管理 |
+| 「サイトチェック」、毎日の定期実行 | protocols/site-watch.md | 自社・競合サイトの巡回チェックと毎日レポート |
 
 ## ディレクトリ構成
 
 ```
 config/
   profile.md       — ユーザープロフィール・連携設定（onboarding.md が生成/更新する）
+  watch-sites.md    — site-watch.md が巡回する自社・競合サイトのURL一覧
 protocols/
   onboarding.md     — 初回セットアップの対話フロー
   daily-briefing.md — 朝の状況要約
@@ -37,8 +39,10 @@ protocols/
   meeting-prep.md    — 会議準備・議事録作成
   research.md         — 構造化リサーチ
   project-mgmt.md     — 案件・プロジェクト管理
+  site-watch.md        — 自社・競合サイトの定期巡回チェック
 projects/
   <project-name>.md — project-mgmt.md が案件ごとに作成するファイル
+  site-watch/        — site-watch.md が保存するサイトごとのスナップショット
 ```
 
 ## 参照時の注意
