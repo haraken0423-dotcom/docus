@@ -5,7 +5,7 @@
 
 ## 自社サイト
 
-- （ここにURLを追加。例: https://example.com — コーポレートサイト）
+- https://www.docus-golf.com/#news — ウェブサイト
 
 ## 競合・業界サイト
 
