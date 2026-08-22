@@ -15,7 +15,7 @@
 - メール: Gmail — haraken.0423@gmail.com
 - カレンダー: TickTick — https://ticktick.com/webapp/#p/6a41eaa94a58dd583d4ae035/tasks/6a41ebb74a58dd583d4ae0da
 - チャット（Slack等）: Slack、Chatwork、LINE
-- その他連携:
+- その他連携: なし
 
 ## 稼働時間・連絡ルール
 
