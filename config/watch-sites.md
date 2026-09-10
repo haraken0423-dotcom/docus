@@ -7,11 +7,9 @@
 
 - https://www.docus-golf.com/#news — ウェブサイト
 - https://shop-docus.com/ — 自社EC
-- https://www.rakuten.co.jp/golf-funk/ — 楽天
 
 ## 競合・業界サイト
 
-- https://www.titleist.co.jp/ — Titleist
 - https://jp.pxg.com/ja — PXG
 
 ## 注意
